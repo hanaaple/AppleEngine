@@ -1,3 +1,12 @@
+
+.vs/
+.vscode/
+.idea/
+
+#
+Binary/
+Immediate/
+
 # Prerequisites
 *.d
 
