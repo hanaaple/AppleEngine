@@ -1,3 +1,14 @@
+## Clone
+클론 시
+````
+git clone --recursive https://github.com/hanaaple/AppleEngine.git
+````
+
+이미 클론한 경우
+````
+git submodule update --init --recursive
+````
+
 ## Requirements
 
 - CMake 4.1.2 or higher
